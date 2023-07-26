@@ -34,6 +34,6 @@ public class IntegerSorter {
         }
 
        
-        System.out.println("ตัวเลขที่เรียงลำดับ: " + num1 + " ≤ " + num2 + " ≤ " + num3);
+        System.out.println("Number is : " + num1 + " ≤ " + num2 + " ≤ " + num3);
     }
 }
